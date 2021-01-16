@@ -80,7 +80,8 @@ const Navbar = ({toggle}) => {
                         </NavItem>
                     </NavMenu>
                     <NavBtn>
-                    <ResumeLink href="https://github.com/ad-fleming/updated-portfolio/raw/52ba77ca24f1fd8e36fc5d349cebf54fac89a17e/Alexander%20Fleming%20Resume%20Oct-2020.pdf" download="download">Download My Resume</ResumeLink>
+                    {/* <ResumeLink href="https://github.com/ad-fleming/updated-portfolio/raw/52ba77ca24f1fd8e36fc5d349cebf54fac89a17e/Alexander%20Fleming%20Resume%20Oct-2020.pdf" download="download">Download My Resume</ResumeLink> */}
+                    <ResumeLink href="https://github.com/ad-fleming/working-portfolio/raw/main/Alexander%20Fleming%20Resume%202021.pdf" download="download">Download My Resume</ResumeLink>
                     </NavBtn>
                 </NavbarContainer>                
             </Nav>
