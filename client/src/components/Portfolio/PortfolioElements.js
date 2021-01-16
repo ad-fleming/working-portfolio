@@ -66,8 +66,8 @@ export const PortfolioCard = styled.div`
 `
 
 export const PortfolioImage = styled.img`
-    height: 160px;
-    width: 160px;
+    height: 200px;
+    width: 275px;
     margin-bottom: 10px;
 `
 
